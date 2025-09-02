@@ -1,0 +1,28 @@
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\bin\Debug\net8.0-windows\Form1.cs.exe
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\bin\Debug\net8.0-windows\Form1.cs.deps.json
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\bin\Debug\net8.0-windows\Form1.cs.runtimeconfig.json
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\bin\Debug\net8.0-windows\Form1.cs.dll
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\bin\Debug\net8.0-windows\Form1.cs.pdb
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.AssemblyInfo.cs
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.dll
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\refint\Form1.cs.dll
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.pdb
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.genruntimeconfig.cache
+\\Mac\Home\Documents\BNTU\2 Course\Visual\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\ref\Form1.cs.dll
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\bin\Debug\net8.0-windows\Form1.cs.exe
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\bin\Debug\net8.0-windows\Form1.cs.deps.json
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\bin\Debug\net8.0-windows\Form1.cs.runtimeconfig.json
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\bin\Debug\net8.0-windows\Form1.cs.dll
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\bin\Debug\net8.0-windows\Form1.cs.pdb
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.AssemblyInfo.cs
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.dll
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\refint\Form1.cs.dll
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.pdb
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\Form1.cs.genruntimeconfig.cache
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Form1.cs\Form1.cs\obj\Debug\net8.0-windows\ref\Form1.cs.dll
