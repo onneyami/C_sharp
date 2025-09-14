@@ -1,0 +1,14 @@
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/bin/Debug/net9.0/basic structure
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/bin/Debug/net9.0/basic structure.deps.json
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/bin/Debug/net9.0/basic structure.runtimeconfig.json
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/bin/Debug/net9.0/basic structure.dll
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/bin/Debug/net9.0/basic structure.pdb
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/obj/Debug/net9.0/basic structure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/obj/Debug/net9.0/basic structure.AssemblyInfoInputs.cache
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/obj/Debug/net9.0/basic structure.AssemblyInfo.cs
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/obj/Debug/net9.0/basic structure.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/obj/Debug/net9.0/basic structure.dll
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/obj/Debug/net9.0/refint/basic structure.dll
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/obj/Debug/net9.0/basic structure.pdb
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/obj/Debug/net9.0/basic structure.genruntimeconfig.cache
+/Users/mac/Documents/SelfCode September - December 2025/С#/basic structure/obj/Debug/net9.0/ref/basic structure.dll

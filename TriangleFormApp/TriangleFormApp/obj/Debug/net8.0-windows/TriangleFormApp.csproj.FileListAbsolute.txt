@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\bin\Debug\net8.0-windows\TriangleFormApp.exe
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\bin\Debug\net8.0-windows\TriangleFormApp.deps.json
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\bin\Debug\net8.0-windows\TriangleFormApp.runtimeconfig.json
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\bin\Debug\net8.0-windows\TriangleFormApp.dll
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\bin\Debug\net8.0-windows\TriangleFormApp.pdb
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\obj\Debug\net8.0-windows\TriangleFormApp.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\obj\Debug\net8.0-windows\TriangleFormApp.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\obj\Debug\net8.0-windows\TriangleFormApp.AssemblyInfo.cs
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\obj\Debug\net8.0-windows\TriangleFormApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\obj\Debug\net8.0-windows\TriangleFormApp.dll
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\obj\Debug\net8.0-windows\refint\TriangleFormApp.dll
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\obj\Debug\net8.0-windows\TriangleFormApp.pdb
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\obj\Debug\net8.0-windows\TriangleFormApp.genruntimeconfig.cache
+\\Mac\Home\Documents\BNTU\2 Course\Visual handles in development\Lab 2\TriangleFormApp\TriangleFormApp\obj\Debug\net8.0-windows\ref\TriangleFormApp.dll
